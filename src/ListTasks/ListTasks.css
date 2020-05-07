@@ -1,0 +1,23 @@
+.list {
+    margin: 1rem 1rem;
+    border-radius: 2rem;
+
+    color: black;
+    width: 330px;
+    background-color: white;
+
+}
+
+.list p {
+    padding: 1rem;
+    position: relative;
+}
+
+.list p span {
+
+    position: absolute;
+    right: 1rem;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
